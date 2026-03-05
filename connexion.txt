@@ -1,4 +1,0 @@
-serveur=PCFRANCK\SAGEFRA
-base=MCN HQ
-utilisateur=sa
-motdepasse=Sql@2025
